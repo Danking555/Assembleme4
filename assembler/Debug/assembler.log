@@ -1,0 +1,19 @@
+﻿  assembler.c
+c:\programming-projects+magshimim\magshimim\year2(2017)\mine projects\assembler\assembler\assembler.c(180): warning C4028: formal parameter 1 different from declaration
+c:\programming-projects+magshimim\magshimim\year2(2017)\mine projects\assembler\assembler\assembler.c(180): warning C4028: formal parameter 2 different from declaration
+c:\programming-projects+magshimim\magshimim\year2(2017)\mine projects\assembler\assembler\assembler.c(180): warning C4029: declared formal parameter list different from definition
+c:\programming-projects+magshimim\magshimim\year2(2017)\mine projects\assembler\assembler\assembler.c(217): warning C4018: '<': signed/unsigned mismatch
+c:\programming-projects+magshimim\magshimim\year2(2017)\mine projects\assembler\assembler\assembler.c(222): warning C4018: '<': signed/unsigned mismatch
+c:\programming-projects+magshimim\magshimim\year2(2017)\mine projects\assembler\assembler\assembler.c(335): warning C4018: '<': signed/unsigned mismatch
+c:\programming-projects+magshimim\magshimim\year2(2017)\mine projects\assembler\assembler\assembler.c(368): warning C4018: '>': signed/unsigned mismatch
+c:\programming-projects+magshimim\magshimim\year2(2017)\mine projects\assembler\assembler\assembler.c(486): warning C4033: 'getMatData' must return a value
+c:\programming-projects+magshimim\magshimim\year2(2017)\mine projects\assembler\assembler\assembler.c(481): warning C4101: 'value': unreferenced local variable
+c:\programming-projects+magshimim\magshimim\year2(2017)\mine projects\assembler\assembler\assembler.c(513): warning C4018: '<': signed/unsigned mismatch
+c:\programming-projects+magshimim\magshimim\year2(2017)\mine projects\assembler\assembler\assembler.c(538): warning C4129: '.': unrecognized character escape sequence
+c:\programming-projects+magshimim\magshimim\year2(2017)\mine projects\assembler\assembler\assembler.c(623): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+c:\programming-projects+magshimim\magshimim\year2(2017)\mine projects\assembler\assembler\assembler.c(648): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[80]'
+c:\programming-projects+magshimim\magshimim\year2(2017)\mine projects\assembler\assembler\assembler.c(648): warning C4024: 'strcpy': different types for formal and actual parameter 1
+c:\programming-projects+magshimim\magshimim\year2(2017)\mine projects\assembler\assembler\assembler.c(724): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+c:\programming-projects+magshimim\magshimim\year2(2017)\mine projects\assembler\assembler\assembler.c(724): warning C4024: 'insertSymbol': different types for formal and actual parameter 3
+c:\programming-projects+magshimim\magshimim\year2(2017)\mine projects\assembler\assembler\assembler.c(491): warning C4715: 'getMatData': not all control paths return a value
+  assembler.vcxproj -> C:\Programming-projects+magshimim\Magshimim\Year2(2017)\Mine Projects\assembler\Debug\assembler.exe
