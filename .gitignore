@@ -1,3 +1,9 @@
+/Debug
+/assembler/Debug
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+
 # Prerequisites
 *.d
 
@@ -41,9 +47,6 @@
 *.su
 *.idb
 *.pdb
-\Debug
-\assembler\Debug
-\assembler\*.vcxproj
 
 # Kernel Module Compile Results
 *.mod*
