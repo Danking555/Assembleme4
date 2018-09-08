@@ -3,8 +3,6 @@
 #include <string.h>
 #include <ctype.h>
 
-#pragma warning (disable:4996)
-
 typedef enum {true =1, false = !true}bool;
 typedef char* string;
 #define BIN 2
@@ -79,7 +77,7 @@ void NotEnoughMemory();
 symListP getNewSymbolsList();
 void destroySybolsList(symListP symbols);
 
-void printToFileInBaseFour(string data, FILE* fp);
+void printToFileInBaseFour(int address, string data, FILE* out_file);
 void printSymbols(symList symbols);
 void printAllData(symList symbols, string dataSegment, string commandsSegment, int IC, int DC);
 string allocateString();
